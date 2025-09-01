@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>#EvoSystem - Plan Oficial</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      line-height: 1.8;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .header {
+      text-align: center;
+      padding: 30px;
+      background: #1e293b;
+      border-radius: 16px;
+      margin-bottom: 20px;
+    }
+    .header h1 {
+      font-size: 2.2rem;
+      background: linear-gradient(90deg, #ff9500, #ffcc00);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin: 0;
+    }
+    .section {
+      background: #1e293b;
+      margin-bottom: 20px;
+      padding: 20px;
+      border-radius: 12px;
+    }
+    .section h2 {
+      color: #ff9500;
+      font-size: 1.5rem;
+    }
+    .signature {
+      font-family: 'Dancing Script', cursive;
+      font-size: 2rem;
+      color: #ff9500;
+      text-align: right;
+      margin: 40px 0 10px 0;
+    }
+    .signature-title {
+      text-align: right;
+      font-style: italic;
+      color: #94a3b8;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 50px;
+      color: #64748b;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="header">
+      <h1>#EvoSystem</h1>
+      <p>Plan de Gobierno Estratégico | Agosto 2025</p>
+    </div>
+
+    <div class="section">
+      <h2>1. Visión</h2>
+      <p><strong>#EvoSystem</strong> es la infraestructura digital soberana de Argentina, basada en blockchain y recursos reales (litio, GNL, oro). No es una moneda para el ciudadano. Es un sistema para el Estado y el comercio exterior.</p>
+    </div>
+
+    <div class="section">
+      <h2>2. Argentus: El Nuevo Patrón Recurso</h2>
+      <p>1 Argentus = 1 USD, respaldado por:</p>
+      <ul>
+        <li><strong>50%</strong> Litio</li>
+        <li><strong>30%</strong> GNL</li>
+        <li><strong>20%</strong> Oro (ancla de confianza)</li>
+      </ul>
+      <p>No se emite sin auditoría. Todo está en blockchain.</p>
+    </div>
+
+    <div class="section">
+      <h2>3. Nodos Institucionales</h2>
+      <p>El sistema usa instituciones reales como nodos:</p>
+      <ul>
+        <li>Ministerio de Minería</li>
+        <li>Enarsa / YPF</li>
+        <li>ARSAT (conectividad)</li>
+        <li>INTA, SENASA, Vialidad, INTI, Ambiente</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>4. Cronograma (2025-2030)</h2>
+      <ul>
+        <li><strong>2025:</strong> Diseño y smart contracts</li>
+        <li><strong>2026:</strong> Piloto con exportación de litio</li>
+        <li><strong>2027:</strong> 5.000 millones de Argentus en uso</li>
+        <li><strong>2030:</strong> Soberanía digital plena</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>5. Inversiones Clave</h2>
+      <ul>
+        <li>Planta de GNL en Bahía Blanca</li>
+        <li>Empoderar a ARSAT con 5G y fibra</li>
+        <li>Auditoría internacional del oro</li>
+        <li>Nodos en el interior (Jujuy, Salta, Neuquén)</li>
+      </ul>
+    </div>
+
+    <div class="signature">Alfredo E. Rodríguez</div>
+    <div class="signature-title">Fundador de #EvoSystem<br>En colaboración con la IA</div>
+
+    <div class="footer">
+      Documento público. Derechos reservados.<br>
+      #EvoSystem 2025
+    </div>
+
+  </div>
+</body>
+</html>
