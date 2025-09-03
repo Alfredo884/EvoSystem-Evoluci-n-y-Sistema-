@@ -1,4 +1,11 @@
+## 📄 Documento Oficial
 
+📥 [Descargar el Plan Ejecutivo (PDF)](Plan_EvoSystem.pdf)
+
+## 🎮 Simulador Interactivo de Argentus
+
+🔧 [Abrir el Simulador](simulador-argentus.html)  
+Calcula cuántos Argentus se pueden emitir según las reservas reales de litio, GNL y oro.
 # #EvoSystem – Plan de Soberanía Digital para Argentina
 
 Proyecto creado por **Alfredo E. Rodríguez**  
