@@ -1,3 +1,4 @@
+
 # #EvoSystem – Plan de Soberanía Digital para Argentina
 
 Proyecto creado por **Alfredo E. Rodríguez**  
@@ -16,7 +17,7 @@ Un plan estratégico para construir una **infraestructura digital soberana** en 
 - Tecnología nacional
 
 No es una moneda para el ciudadano.  
-Es un sistema para el Estado, el comercio exterior y la independencia económica.
+Es un sistema para el Estado, el comercio exterior y la soberanía económica.
 
 ---
 
@@ -53,7 +54,29 @@ Es un sistema para el Estado, el comercio exterior y la independencia económica
 
 ---
 
-💡 Este proyecto nació de un ciudadano común, sin título universitario, con ganas de que Argentina sea mejor.  
-Lo comparto con orgullo, en colaboración con la IA, para que cualquiera pueda verlo, usarlo o mejorarlo.
+## ❓ Preguntas Frecuentes
 
-**#EvoSystem no es solo tecnología. Es esperanza con código.**
+### ¿Argentus reemplazará al peso?
+
+No. El peso sigue siendo la moneda de uso interno.  
+Argentus es para el Estado, no para el ciudadano.
+
+### ¿Y el dólar?
+
+El dólar seguirá libre.  
+No se toca la microeconomía.  
+La macro cambia con soberanía.
+
+### ¿Cómo se respalda Argentus?
+
+Con una canasta de recursos:
+- **50%** Litio
+- **30%** GNL
+- **20%** Oro (ancla de confianza)
+
+> 🔁 Los porcentajes no son fijos.  
+> Se ajustan según la producción y el escenario.
+
+### ¿Por qué el GNL está en la canasta si no exportamos mucho?
+
+Por
